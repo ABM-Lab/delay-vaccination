@@ -28,7 +28,7 @@ RR100_R1400_R18: data file for inci/hosp/death during first 100 days when second
 RR100_D1400_R18: data file for inci/hosp/death during first 100 days when second dose is in a delayed schedule with R0 = 1.8; 
 
 Published Studies:
-Deviation from the recommended schedule: Optimal dosing interval for a two-dose vacciantion programme, Zhen Wang, Gergely Rost, and Seyed M. Moghadas, 2023, Royal Society Open Science (in Review).
+Deviation from the recommended schedule: Optimal dosing interval for a two-dose vacciantion programme, Zhen Wang, Gergely Rost, and Seyed M. Moghadas, 2023, (Under Review). 
 
 
 
